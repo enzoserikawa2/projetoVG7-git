@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="room" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#e8eeec"/><stop offset="1" stop-color="#aebbb8"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="url(#room)"/>
+  <path d="M0 640h1200v160H0z" fill="#778884"/>
+  <rect x="110" y="190" width="980" height="330" rx="22" fill="#657875" stroke="#3f514e" stroke-width="14"/>
+  <circle cx="335" cy="355" r="118" fill="#bec9c6" stroke="#324743" stroke-width="18"/>
+  <circle cx="335" cy="355" r="78" fill="#45615c"/>
+  <path d="M725 80v230h250" fill="none" stroke="#d5dedc" stroke-width="112"/>
+  <path d="M725 80v230h250" fill="none" stroke="#344a46" stroke-width="12" stroke-dasharray="40 24"/>
+  <path d="M795 252c28 36 42 67 35 94-11 42-61 57-103 26-32-24-34-64-4-120Z" fill="#bd7745"/>
+  <path d="M765 190l72 36-35 91-80-40Z" fill="#f3c55d" opacity=".85"/>
+  <text x="600" y="100" text-anchor="middle" font-family="Arial, sans-serif" font-size="42" font-weight="700" fill="#123b35">FOTOGRAFIA DEMONSTRATIVA • EXEMPLO</text>
+  <text x="600" y="760" text-anchor="middle" font-family="Arial, sans-serif" font-size="32" fill="#f7faf8">Tubulação — isolamento térmico danificado simulado</text>
+</svg>
